@@ -1,0 +1,35 @@
+<p><b>Sobre nós</b></p>
+<p><b>Aplicação de Relatório Baseado em Casos de Malária da CNM (MCS)</b></p>
+
+<p><b>Versão de compilação %s</b></p>
+
+<p>Este aplicativo de software ("App") foi desenvolvido pela Universidade de Oslo (UiO) e Clinton Health Access Initiative (CHAI) e é um derivativo do aplicativo Malaria Case Surveillance (MCS) conceituado e desenvolvido pela Population Services International (PSI ), para melhorar a vigilância de casos de malária no sector público de cuidados de saúde no Camboja.</p>
+
+<p><b><u>Organizações contribuintes</u></b></p>
+
+<p><b>Centro Nacional de Parasitologia, Entomologia e Controle da Malária (CNM)</b></p>
+
+<p><i>Liderar implementação e conceituação</i></p>
+
+<p>A CNM liderou a estratégia de desenvolvimento e implementação de todas as atividades de combate à malária no Camboja com as metas atuais de eliminação de Pf até 2020 e eliminação de Pv até 2025. Uma estratégia central do Mecanismo de Eliminação de Malária da CNM (MEAF) é o fortalecimento dos sistemas de vigilância para facilitar a implementação de todas as atividades de eliminação.</p>
+
+<p><b>Clinton Health Access Initiative (CHAI)</b></p>
+
+<p><i>Implementação principal</i></p>
+
+<p>A CHAI tem trabalhado com governos desde 2007 para implantar sistemas de informação que suportam coleta e gerenciamento de dados, rastreamento de pacientes, registros médicos eletrônicos, vigilância sanitária, gerenciamento de laboratório e gerenciamento da cadeia de suprimentos em 22 países e áreas de doenças, incluindo saúde materna e neonatal, saúde reprodutiva, vacinas, HIV/AIDS e malária</p>
+
+<p><b>Departamento de Informática da Universidade de Oslo (UiO)</b></p>
+
+<p><i>Liderar implementação e conceituação</i></p>
+
+<p>A UiO demonstrou a capacidade de desenvolver e implementar tecnologia adequada em escala para configurações de recursos baixos, permitindo que o DHIS2 atinja uma posição única como uma plataforma de informações de saúde transversal com uma grande comunidade de apoio, particularmente na África e na Ásia.</p>
+
+<p><b><i>EyeSeeTea (EST)</i></b></p>
+
+<p><i>Liderar o desenvolvimento técnico</i></p>
+
+<p>A EyeSeeTea LTD é uma empresa sediada em Londres dedicada a:<br/>
+-Desenvolvimento de software NGO<br/>
+-Desenvolvimento e implantação de TIC<br/>
+-Análise e representação de dados</p>
